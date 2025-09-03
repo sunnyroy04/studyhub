@@ -1,0 +1,26 @@
+{
+  "name": "studyhub",
+  "version": "1.0.0",
+  "description": "This is a course selling aap in node and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyroy04/studyhub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sunnyroy04/studyhub/issues"
+  },
+  "homepage": "https://github.com/sunnyroy04/studyhub#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0"
+  }
+}
